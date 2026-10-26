@@ -1,0 +1,7 @@
+openai>=1.0
+python-dotenv
+SpeechRecognition
+pyttsx3
+pywhatkit
+PyQt6
+PyAudio

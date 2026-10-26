@@ -1,6 +1,6 @@
 <div align="center">
 
-# JARVIS AI Assistant
+![JARVIS AI Assistant](cover.svg)
 
 **A desktop assistant that listens, responds, and takes action.**
 
@@ -9,8 +9,6 @@
 [Portfolio](https://vekeshportfolio.lovable.app/) · [Developer profile](https://github.com/Vekesh04)
 
 </div>
-
- > **Publication status:** Documentation is published. The prepared source files are awaiting repository upload.
 
 ## Overview
 
